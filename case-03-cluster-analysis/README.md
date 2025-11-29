@@ -4,7 +4,7 @@ MA2003B - Aplicación de Métodos Multivariados en Ciencia de Datos
 ### Cluster Analysis
 Este Notebook se trata de una realización de clustering no supervisado para ver los tipos de consumidores que tenía una empresa y a partir de ello, reestructurar las finanzas, re-enfocar las campañas publicitarias y mejorar la experiencia del usuario dado que antes la empresa trataba todos sus clientes por igual el cual generaba zonas de alto consumo de recursos y poco retorno.
 
-#### Analisis Preliminar
+#### Análisis Preliminar
 Luego de realizar una limpieza a los datos se realizó un análisis para ver los comportamientos de los datos y la factibilidad de los diferentes tamaños de clusters. Una métrica que se encontró fue que la cantidad total que un usuario gasta es proporcional a el promedio del tamaño de sus canastas y que aunque la variabilidad del promedio del tamaño de las canastas y la cantidad total gastada este baja estos contienen los valores más alejados de la media de todos los datos, por lo que nos demuestra que se tiene una buena base de datos para trabajar.
 Lo siguiente que se hizo fue hacer un Dendrograma para ver posibles números de clusters que posteriormente se vio su factibilidad por otro método el cual nos terminó de guiar a que el mejor corte fuera de 5 segmentos.
 
