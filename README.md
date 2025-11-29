@@ -25,8 +25,6 @@
 
 ---
 
-## Getting Started
-
 ### Dependencies
 
 ```bash
