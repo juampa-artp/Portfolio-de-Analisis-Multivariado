@@ -8,6 +8,23 @@
 
 ---
 
+**Factor Analysis:**
+- Cuando tienes muchas variables correlacionadas y quieres identificar dimensiones subyacentes
+- Para validar cuestionarios o escalas psicométricas
+- Cuando necesitas reducir dimensionalidad preservando la interpretabilidad
+
+**Discriminant Analysis:**
+- Cuando ya conoces los grupos y quieres clasificar nuevas observaciones
+- Para entender qué variables mejor discriminan entre grupos
+- Cuando necesitas probabilidades de pertenencia a grupos
+
+**Cluster Analysis:**
+- Cuando no tienes grupos predefinidos y quieres descubrirlos
+- Para segmentación de clientes o mercados
+- Cuando buscas patrones naturales en los datos sin hipótesis previas
+
+---
+
 ## Getting Started
 
 ### Dependencies
